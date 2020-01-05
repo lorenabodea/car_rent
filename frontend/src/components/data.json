@@ -1,0 +1,13 @@
+"data": [
+    {
+      "id": "83",
+      "product_name": "TV",
+      "category": "Clearance",
+      "original_price": "139.0000",
+      "final_price": "105.0000",
+      "attributes": {
+        "size": "260x220",
+        "tog": "10.5 tog"
+      }
+      "url": "/tv"
+    }
